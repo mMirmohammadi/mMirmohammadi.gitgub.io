@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Intern @ ETH Zürich | CE @ SUT
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fourth-year student at Sharif University of Technology, pursuing a B.Sc. degree in Computer Engineering. I have been involved in several research projects during my undergraduate studies. Additionally, I have a year of industry experience as a Machine Learning Engineer.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At the International Olympiad of Informatics (IOI), I finished 36th out of 327 competitors, earning a silver medal. Developing competitive programming skills has helped me learn how to solve complex problems and think critically. Since my coursework at university did not fulfill my desire to learn more and dive deeper into AI, I turned to industry. My one-year experience allowed me to develop technical skills by implementing various solutions. Additionally, I was able to focus on AI and complete real-world projects.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+While my experience in the industry was enriching and productive, I still felt my talents and capabilities were not utilized enough. Therefore, I turned to academia, which did not disappoint me. In the past year and a half, I have focused on research in Deep Learning. While in the Visual Intelligence for Transportation (VITA) lab at the Swiss Federal Institute of Technology in Lausanne (EPFL), I got the chance to work on the task of Human Pose Forecasting. My main contributions to this project were showing our approach's theoretical aspects and empirically proving its effectiveness. Additionally, our team developed an open-source library with several models, datasets, and metrics. This position allowed me to improve my communication and teamwork skills while gaining extensive research experience. A paper resulting from this project is currently under review at CPVR 2023.
+
+In the Advanced Interactive Technologies (AIT) lab at the Swiss Federal Institute of Technology (ETH) Zürich, I am collaborating with five other researchers on the task of Human Object interaction. In this project, I designed and implemented the core method. This opportunity expanded my applied deep learning research experience and my collaboration, team management, and planning skills. We will likely submit the results of our work to ICCV 2023.
