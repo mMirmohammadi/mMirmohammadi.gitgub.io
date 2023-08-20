@@ -11,3 +11,13 @@
   abstract={Recently, there has been an arms race of pose forecasting methods aimed at solving the spatio-temporal task of predicting a sequence of future 3D poses of a person given a sequence of past observed ones. However, the lack of unified benchmarks and limited uncertainty analysis have hindered progress in the field. To address this, we first develop an open-source library for human pose forecasting, featuring multiple models, datasets, and standardized evaluation metrics, with the aim of promoting research and moving toward a unified and fair evaluation. Second, we devise two types of uncertainty in the problem to increase performance and convey better trust: 1) we propose a method for modeling aleatoric uncertainty by using uncertainty priors to inject knowledge about the behavior of uncertainty. This focuses the capacity of the model in the direction of more meaningful supervision while reducing the number of learned parameters and improving stability; 2) we introduce a novel approach for quantifying the epistemic uncertainty of any model through clustering and measuring the entropy of its assignments. Our experiments demonstrate up to 25% improvements in accuracy and better performance in uncertainty estimation.},
   arxiv={2304.06707},
 }
+
+@article{mirmohammadi2023Reconstruction,
+  title={Reconstruction of 3D Interaction Models from Images using Shape Prior},
+  author={Mirmohammadi, Mehrshad and Saremi, Parham and Kuo, Yen-Ling and Wang, Xi},
+  journal={ICCV R6D Workshop},
+  year={2023},
+  preview={BEHAVE.png},
+  selected={true},
+  abstract={We investigate the reconstruction of 3D human-object interactions from images, encompassing 3D human shape and pose estimation as well as object shape and pose estimation. To address this task, we introduce an autoregressive transformer-based variational autoencoder capable of learning a robust shape prior from extensive 3D shape datasets. Additionally, we leverage the reconstructed 3D human body as supplementary features for object shape and pose estimation. In contrast, prior methods only predict object pose and rely on shape templates for shape prediction. Experimental findings on the BEHAVE dataset underscore the effectiveness of our proposed approach, achieving a 40.7cm Chamfer distance and demonstrating the advantages of learning a shape prior.},
+}
